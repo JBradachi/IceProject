@@ -13,8 +13,23 @@ somente para organizar o que tem que ser feito, como será feito e o código em 
 - [Implantação](#implantação)
 
 ### Requisitos
+
+Na seção de requisistos iremos fazer a elicitação dos requisitos do sistema, análise prévia, verificação dos requisitos e priorização,
+montar um diagrama de casos de uso, entre outros.
+
+
 ### Análise
+Na seção de análise iremos refinar os requisitos e montar um diagrama UML.
+
 ### Design
+
+
 ### Implementação
+
+
 ### Testes
+
+
 ### Implantação
+
+
