@@ -23,7 +23,7 @@ Na seção de análise iremos refinar os requisitos e montar um diagrama UML.
 
 Seque abaixo o link com os requisitos:
 
-[Requisitos]([url](https://docs.google.com/document/d/1gPzhM94fTre9NWI9GNTdP-hK44MXgBhnn41qEeIoRXk/edit?usp=sharing))
+[Requisitos](https://docs.google.com/document/d/1gPzhM94fTre9NWI9GNTdP-hK44MXgBhnn41qEeIoRXk/edit?usp=sharing)
 
 ### Design
 
