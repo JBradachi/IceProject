@@ -17,13 +17,10 @@ somente para organizar o que tem que ser feito, como será feito e o código em 
 Na seção de requisistos iremos fazer a elicitação dos requisitos do sistema, análise prévia, verificação dos requisitos e priorização,
 montar um diagrama de casos de uso, entre outros.
 
+[Clique aqui](https://docs.google.com/document/d/1gPzhM94fTre9NWI9GNTdP-hK44MXgBhnn41qEeIoRXk/edit?usp=sharing) para acessar os requisistos
 
 ### Análise
 Na seção de análise iremos refinar os requisitos e montar um diagrama UML.
-
-Seque abaixo o link com os requisitos:
-
-[Requisitos](https://docs.google.com/document/d/1gPzhM94fTre9NWI9GNTdP-hK44MXgBhnn41qEeIoRXk/edit?usp=sharing)
 
 ### Design
 
