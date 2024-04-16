@@ -22,6 +22,8 @@ montar um diagrama de casos de uso, entre outros.
 ### Análise
 Na seção de análise iremos refinar os requisitos e montar um diagrama UML.
 
+![IceProject](https://github.com/JBradachi/IceProject/assets/105111795/d615b765-71a8-4728-b535-981a6e0c464c)
+
 ### Design
 
 
